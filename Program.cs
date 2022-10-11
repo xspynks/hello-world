@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!\n" + DateTime.Now.ToString("MMMM, dd, yyyy"));
+Console.WriteLine("Hello, World!\nToday is " + DateTime.Now.ToString("MMMM, dd, yyyy"));
 
 // receives a integer from the user
 Console.WriteLine("Digite um número:");
