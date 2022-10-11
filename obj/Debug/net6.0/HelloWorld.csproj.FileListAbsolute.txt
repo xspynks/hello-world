@@ -1,0 +1,15 @@
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/HelloWorld
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/ref/HelloWorld.dll
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/media/rafael/Gago/Development 2022/Jalasoft/Bootcamp/back-end/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
