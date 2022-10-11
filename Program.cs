@@ -2,10 +2,11 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!\n" + DateTime.Now.ToString("MMMM, dd, yyyy"));
 
+// receives a integer from the user
 Console.WriteLine("Digite um número:");
 int age = Convert.ToInt32(Console.ReadLine());
 
-// receives input from the user
+// receives a string from the user and prints it
 Console.WriteLine("Digite seu nome: ");
 string name = Console.ReadLine();
 
